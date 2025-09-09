@@ -1,0 +1,8 @@
+print("---Python hổ trợ các kiểu dữ liệu---")
+print("-Kiểu số học")
+print("-Kiểu chuỗi kí tự")
+print("-Kiểu logic")
+print("-Kiểu dữ liệu tập hợp")
+print("-Kiểu ánh xạ")
+print("-Kiểu tập hợp")
+print("-Kiểu nhị phân")
